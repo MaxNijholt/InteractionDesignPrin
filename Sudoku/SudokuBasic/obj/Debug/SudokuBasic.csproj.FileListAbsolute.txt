@@ -1,0 +1,6 @@
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\bin\Debug\SudokuBasic.dll
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\bin\Debug\SudokuBasic.pdb
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\obj\Debug\Interop.Sudoku.dll
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\obj\Debug\SudokuBasic.csproj.ResolveComReference.cache
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\obj\Debug\SudokuBasic.dll
+c:\Users\mnijholt\documents\visual studio 2013\Projects\Sudoku\SudokuBasic\obj\Debug\SudokuBasic.pdb
